@@ -10,7 +10,7 @@
 	{
   "category" : "ESP8266",
   "name" : "Espsynth86",
-  "url" : "https://esptiny86.github.io/espboard8266/board/esp8266-2.4.2.zip",
+  "url" : "https://esptiny86.github.io/espboard8266/board/espsynth86-2.4.2.zip",
   "checksum" : "SHA-256:5d5ab94fa9b7e00fdc0e50f3a640a42c8c309603cb1fe10e76429259ebf00a63",
   "version" : "2.4.2",
   "architecture" : "esp8266",
